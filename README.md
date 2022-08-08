@@ -4,7 +4,6 @@
 - 🌱 Estou aprendendo Front-end: HTML5, CSS3 E JavaScript.
 - 👯 Também estou aprendendo Algoritmo e Lógica de Programação.
 - 💬 Contato:
--  Cel: (11)978275350 
 -  e-mail: lilliane.oliveira88@gmail.com
 
 <div align="center">
