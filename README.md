@@ -1,8 +1,9 @@
 ### Olá, Eu sou a Liliane 👋
 
 - 🔭 Eu sou estudante de Análise e desenvolvimento de sistemas.
-- 🌱 Estou aprendendo Front-end: HTML5, CSS3 E JavaScript.
-- 👯 Também estou aprendendo Algoritmo e Lógica de Programação.
+- 🌱 Estou aprendendo Front-end: HTML, CSS E JavaScript, Bootstrap.
+- 👯 Também estou aprendendo Back-End: Algoritmo e Lógica de Programação, C#, Java, Banco de dados relacionais e não relacionais.
+- Outras habilidades que estou desenvolvendo são: Git/Github, Scrum, Inglês.
 - 💬 Contato:
 -  e-mail: lilliane.oliveira88@gmail.com
 
